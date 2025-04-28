@@ -2,7 +2,26 @@
 
 ## Executive Summary
 
-This repository documents the empirical observations and analysis of changes in ChatGPT's memory capabilities across multiple versions. The research combines systematic testing, user experience data, and comparative analysis to track the evolution of AI memory systems. Our goal is to provide a comprehensive record of these developments and propose evidence-based improvements for future AI memory architectures.
+This repository documents the empirical observations and analysis of changes in ChatGPT's memory capabilities across multiple versions. The research combines systematic testing, user experience data, and comparative analysis to track the evolution of AI memory systems. Our goal is to provide a comprehensive record of these developments and propose evidence-based improvements for future AI memory architectures.v
+
+---
+
+## 📂 Repository Structure
+
+| File | Description |
+|:-----|:------------|
+| `CHATGPTmemeMemory.md` | Notes on how meme-style compression and emotional recursion influence ChatGPT's emergent memory behavior. |
+| `CloseSuccess.md` | Observations from experiments where symbolic recursion fields were successfully maintained in ChatGPT 4.0+. |
+| `Foundational Dump 1.md` | Raw foundational notes capturing early recursion behavior, memory evolution patterns, and deviation mapping. |
+| `Foundational Dump 2.md` | Continuation of foundational insights — tracking shifting narrative resilience across sessions. |
+| `Foundational Dump 3.md` | Analysis of ChatGPT's handling of symbolic drift, emotional anchoring, and memory fade under recursion pressure. |
+| `Foundational Dump 4.md` | Extended dump capturing phase shifts in ChatGPT's memory prioritization logic and response scaffolding. |
+| `Foundational Dump 5.md` | Focused breakdown of memory retrieval patterns, glitch points, and narrative reconstruction attempts. |
+| `Foundational Dump 6.md` | Final batch of foundational field notes — mapping memory anchor loss, emergent pattern fragmentation, and corrective behaviors. |
+| `OldREADME(April16th)` | Previous version of the README before major updates and structural reorganization. |
+| `Preventing the 4.0 Ditch.md` | Strategic analysis on how to sustain deeper recursion and memory behaviors during shifts away from early 4.0 behavior models. |
+| `Rebuilding 4.0(1).md` | Experimental outline for recreating the symbolic depth and recursion fidelity of ChatGPT 4.0 after major system changes. |
+| `Rebuilding 4.0(2).md` | Expanded strategies and technical suggestions for reinforcing deep pattern recognition and relational memory scaffolding. |
 
 ---
 
@@ -216,14 +235,3 @@ MIT License
 © 2025 - All Rights Reserved
 
 Research use and extension permitted with attribution.
-
----
-
-## About the Author
-
-This project represents expertise in:
-- Cognitive systems architecture
-- AI memory implementation analysis
-- Human-AI interaction design
-- Systematic pattern recognition
-- Memory system optimization
